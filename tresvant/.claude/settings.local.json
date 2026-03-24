@@ -26,7 +26,8 @@
       "Bash(SUPABASE_ACCESS_TOKEN=sbp_22d1ccb9f587a7d66befa4a1a887b0dc8cf48bc9 supabase db push:*)",
       "Bash(SUPABASE_ACCESS_TOKEN=sbp_22d1ccb9f587a7d66befa4a1a887b0dc8cf48bc9 supabase functions deploy:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ]
   }
 }
